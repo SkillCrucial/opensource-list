@@ -13,3 +13,4 @@
 5 | [react-initicon](https://github.com/ccm-innovation/react-initicon) | latest commit: >2 years ago | Генерит иконку с инициалами   
 6 | [react-motion-TransitionSpring-demo](https://github.com/hayeah/react-motion-TransitionSpring-demo) | react v 0.13.3 | Пример использования react-motion: всплывающие иконки с буквами,  в зависимости от нажатия на клавиатуру (демка: http://hayeah.github.io/react-motion-TransitionSpring-demo/)  
 7 | [excelize](https://github.com/astur/excelize)  | Node 6.0.0    | Save array of similar objects to MS Excel sheet  
+8 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить с простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)

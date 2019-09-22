@@ -13,3 +13,4 @@
 5 | [react-initicon](https://github.com/ccm-innovation/react-initicon) | latest commit: >2 years ago | Генерит иконку с инициалами   
 6 | [react-motion-TransitionSpring-demo](https://github.com/hayeah/react-motion-TransitionSpring-demo) | react v 0.13.3 | Пример использования react-motion: всплывающие иконки с буквами,  в зависимости от нажатия на клавиатуру (демка: http://hayeah.github.io/react-motion-TransitionSpring-demo/)  
 7 | [excelize](https://github.com/astur/excelize)  | Node 6.0.0    | Save array of similar objects to MS Excel sheet  
+ | [react-gravatar-image](https://github.com/deerawan/react-gravatar-image) | react: ^0.13.3, last commit on 13 Sep 2015 | react component to show Gravatar image (можно сделать рефакторинг с учётом последнего реакта)

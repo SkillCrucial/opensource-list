@@ -6,6 +6,9 @@
 Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие аздачи решает
 
 ## Список
+
+Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие аздачи решает
+-|-|-|-
 1 | [react-infinite-calendar ](https://github.com/clauderic/react-infinite-calendar) | React v 15.4.2, latest commit: | Календарь с бесконечным скроллом  
 2 | [react-fontpicker](https://github.com/nardeas/react-fontpicker) | React v 15.4.2, latest commit: > 2 years ago (before React v.16) | Интерактивный выбор шрифтов (детальнее хз, демка уже не работает)  
 3 | [KrateLabs-App](https://github.com/KrateLabs/KrateLabs-App) | React v 0.14.8, latest commit: on November 2016, MobX, WebGL | Генератор карт (точнее хз, демка не работает)  

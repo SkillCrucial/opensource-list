@@ -3,11 +3,11 @@
 
 Ищем только полезные проекты, которые можно использовать формат
 
-Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие аздачи решает
+Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает
 
 ## Список
 
-Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие аздачи решает
+Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает
 -|-|-|-
 1 | [react-infinite-calendar ](https://github.com/clauderic/react-infinite-calendar) | React v 15.4.2, latest commit: | Календарь с бесконечным скроллом  
 2 | [react-fontpicker](https://github.com/nardeas/react-fontpicker) | React v 15.4.2, latest commit: > 2 years ago (before React v.16) | Интерактивный выбор шрифтов (детальнее хз, демка уже не работает)  
@@ -18,4 +18,4 @@
 7 | [excelize](https://github.com/astur/excelize)  | Node 6.0.0    | Save array of similar objects to MS Excel sheet
 8 | [react-bootstrap-treeview](https://github.com/jonmiles/react-bootstrap-treeview) | React React v0.13.1, Bootstrap v3.3.4 (>= 3.0.0) | Можно просматривать данные в виде вложеного дерева (демо: http://jonmiles.github.io/react-bootstrap-treeview/)   
 9	| [react-gravatar-image](https://github.com/deerawan/react-gravatar-image) | react: ^0.13.3, last commit on 13 Sep 2015 | react component to show Gravatar image (можно сделать рефакторинг с учётом последнего реакта)  
-10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить с простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  
+10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить в простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  

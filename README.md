@@ -17,5 +17,35 @@
 6 | [react-motion-TransitionSpring-demo](https://github.com/hayeah/react-motion-TransitionSpring-demo) | react v 0.13.3 | Пример использования react-motion: всплывающие иконки с буквами,  в зависимости от нажатия на клавиатуру (демка: http://hayeah.github.io/react-motion-TransitionSpring-demo/)  
 7 | [excelize](https://github.com/astur/excelize)  | Node 6.0.0    | Save array of similar objects to MS Excel sheet
 8 | [react-bootstrap-treeview](https://github.com/jonmiles/react-bootstrap-treeview) | React React v0.13.1, Bootstrap v3.3.4 (>= 3.0.0) | Можно просматривать данные в виде вложеного дерева (демо: http://jonmiles.github.io/react-bootstrap-treeview/)   
-9	| [react-gravatar-image](https://github.com/deerawan/react-gravatar-image) | react: ^0.13.3, last commit on 13 Sep 2015 | react component to show Gravatar image (можно сделать рефакторинг с учётом последнего реакта)  
+9 | [react-gravatar-image](https://github.com/deerawan/react-gravatar-image) | react: ^0.13.3, last commit on 13 Sep 2015 | react component to show Gravatar image (можно сделать рефакторинг с учётом последнего реакта)  
 10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить в простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  
+11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2
+12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
+13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
+14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x || 0.14.x
+15 | 
+16 | 
+17 | 
+18 | 
+19 | 
+20 |
+21 |
+22 |
+23 |
+24 |
+25 |
+26 |
+27 |
+28 |
+29 |
+30 |
+31 |
+32 |
+33 |
+34 |
+35 |
+36 |
+37 | 
+38 | 
+39 |
+40 |

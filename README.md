@@ -27,7 +27,7 @@
 16 | [reacticons] (https://github.com/andrewliebchen/reacticons) | react: 0.12.0
 17 | [https://github.com/VikramN/Re-Tag](https://github.com/VikramN/Re-Tag) | react "^0.12.2"
 18 | [text-to-emoji](https://github.com/brendansudol/text-to-emoji) | ^0.14.5
-19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3 | [baklaev](https://github.com/kbaklaev/react-password-strength-meter)
+19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3 | | [baklaev](https://github.com/kbaklaev/react-password-strength-meter)
 20 | [lymbus](https://github.com/bbstilson/lymbus) | react:"^15.0.2"
 21 | [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) | react: "0.12.2"
 22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0

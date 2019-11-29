@@ -8,7 +8,7 @@
 ## Список
 
 Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает
--|-|-|-
+-|-|-|-|-
 1 | [react-infinite-calendar ](https://github.com/clauderic/react-infinite-calendar) | React v 15.4.2, latest commit: | Календарь с бесконечным скроллом  
 2 | [react-fontpicker](https://github.com/nardeas/react-fontpicker) | React v 15.4.2, latest commit: > 2 years ago (before React v.16) | Интерактивный выбор шрифтов (детальнее хз, демка уже не работает)  
 3+ | [KrateLabs-App](https://github.com/MrTolerant/KrateLabs-App) | React v 0.14.8, latest commit: on November 2016, MobX, WebGL | Генератор карт (точнее хз, демка не работает)  
@@ -27,7 +27,7 @@
 16 | [reacticons] (https://github.com/andrewliebchen/reacticons) | react: 0.12.0
 17 | [https://github.com/VikramN/Re-Tag](https://github.com/VikramN/Re-Tag) | react "^0.12.2"
 18 | [text-to-emoji](https://github.com/brendansudol/text-to-emoji) | ^0.14.5
-19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3
+19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3 | [baklaev](https://github.com/kbaklaev/react-password-strength-meter)
 20 | [lymbus](https://github.com/bbstilson/lymbus) | react:"^15.0.2"
 21 | [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) | react: "0.12.2"
 22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0

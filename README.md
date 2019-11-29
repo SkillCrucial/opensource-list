@@ -39,7 +39,7 @@
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0"
 30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"
-31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"
+31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| [https://github.com/Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)
 32 | [React-Lightbox](https://github.com/howtomakeaturn/React-Lightbox) | "react": "?"
 33 | [little-sheet-react-spreadsheet](https://github.com/asm-products/little-sheet-react-spreadsheet) | "react": "^0.12.2"
 34 |

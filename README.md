@@ -22,7 +22,7 @@
 11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2
 12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
 13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
-14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x || 0.14.x
+14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x | [https://github.com/lily-zayn/](https://github.com/lily-zayn/react-motion-TransitionSpring-demo) | [https://github.com/lily-zayn] (https://github.com/lily-zayn/react-tiltshift)
 15 | [react-progress-form] (https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion.
 16 | [reacticons] (https://github.com/andrewliebchen/reacticons) | react: 0.12.0
 17 | [https://github.com/VikramN/Re-Tag](https://github.com/VikramN/Re-Tag) | react "^0.12.2"

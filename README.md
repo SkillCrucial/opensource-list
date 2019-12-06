@@ -7,8 +7,8 @@
 
 ## Список
 
-Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает
--|-|-|-
+№ | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает | Мейнтейнер
+--- | --- | --- | --- | --- |
 1 | [react-infinite-calendar ](https://github.com/clauderic/react-infinite-calendar) | React v 15.4.2, latest commit: | Календарь с бесконечным скроллом  
 2 | [react-fontpicker](https://github.com/nardeas/react-fontpicker) | React v 15.4.2, latest commit: > 2 years ago (before React v.16) | Интерактивный выбор шрифтов (детальнее хз, демка уже не работает)  
 3+ | [KrateLabs-App](https://github.com/MrTolerant/KrateLabs-App) | React v 0.14.8, latest commit: on November 2016, MobX, WebGL | Генератор карт (точнее хз, демка не работает)  
@@ -23,8 +23,8 @@
 12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
 13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
 14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x || 0.14.x
-15 | [react-progress-form] (https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion.
-16 | [reacticons] (https://github.com/andrewliebchen/reacticons) | react: 0.12.0
+15 | [react-progress-form](https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion. | [https://github.com/YuLogun](https://github.com/YuLogun/react-progress-form)
+16 | [reacticons](https://github.com/andrewliebchen/reacticons) | react: 0.12.0
 17 | [https://github.com/VikramN/Re-Tag](https://github.com/VikramN/Re-Tag) | react "^0.12.2"
 18 | [text-to-emoji](https://github.com/brendansudol/text-to-emoji) | ^0.14.5
 19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3
@@ -39,7 +39,7 @@
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0"
 30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"
-31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| [https://github.com/Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)
+31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| | [https://github.com/Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)
 32 | [React-Lightbox](https://github.com/howtomakeaturn/React-Lightbox) | "react": "?"
 33 | [little-sheet-react-spreadsheet](https://github.com/asm-products/little-sheet-react-spreadsheet) | "react": "^0.12.2"
 34 |

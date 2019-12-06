@@ -3,9 +3,6 @@
 
 Ищем только полезные проекты, которые можно использовать формат
 
-Номер | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает | Мейнтейнер
-
-## Список
 № | Ссылка на репозиторий | Стек технологий | Что делает и какие задачи решает | Мейнтейнер
 --- | --- | --- | --- | --- |
 1 | [react-infinite-calendar ](https://github.com/clauderic/react-infinite-calendar) | React v 15.4.2, latest commit: | Календарь с бесконечным скроллом  
@@ -32,7 +29,7 @@
 22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0
 23 | [react-token-autocomplete](https://github.com/peterKaleta/react-token-autocomplete) | react: ^0.13.3
 24 | [react-select-popover](https://github.com/bharani91/react-select-popover) | react: "^0.14.2"
-25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x"
+25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x" | [https://github.com/onair-lena](https://github.com/onair-lena)
 26 | [react-datetime](https://github.com/arqex/react-datetime) |  "react": ">=0.13"
 27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0"
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"

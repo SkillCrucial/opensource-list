@@ -15,7 +15,7 @@
 8 | [react-bootstrap-treeview](https://github.com/jonmiles/react-bootstrap-treeview) | React React v0.13.1, Bootstrap v3.3.4 (>= 3.0.0) | Можно просматривать данные в виде вложеного дерева (демо: http://jonmiles.github.io/react-bootstrap-treeview/)   
 9 | [react-gravatar-image](https://github.com/deerawan/react-gravatar-image) | react: ^0.13.3, last commit on 13 Sep 2015 | react component to show Gravatar image (можно сделать рефакторинг с учётом последнего реакта)  
 10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить в простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  
-11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2
+11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2 | Pivot grid javascript library. | <a href="https://github.com/dovhanrg/orb">dovhanrg</a>
 12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
 13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
 14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x | [https://github.com/lily-zayn/](https://github.com/lily-zayn/react-motion-TransitionSpring-demo) | [https://github.com/lily-zayn] (https://github.com/lily-zayn/react-tiltshift)

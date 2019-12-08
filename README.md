@@ -26,13 +26,13 @@
 19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3 | | [kbaklaev](https://github.com/kbaklaev/react-password-strength-meter)
 20 | [lymbus](https://github.com/bbstilson/lymbus) | react:"^15.0.2"
 21 | [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) | react: "0.12.2"
-22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0
+22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0 | [kyrylosydorenko](https://github.com/kyrylosydorenko/react-select-box)
 23 | [react-token-autocomplete](https://github.com/peterKaleta/react-token-autocomplete) | react: ^0.13.3
 24 | [react-select-popover](https://github.com/bharani91/react-select-popover) | react: "^0.14.2"
 25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x" | [https://github.com/onair-lena](https://github.com/onair-lena)
 26 | [react-datetime](https://github.com/arqex/react-datetime) |  "react": ">=0.13"
 27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0"
-28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"
+28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"| [kyrylosydorenko](https://github.com/kyrylosydorenko/react-photo-feed)
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0" | | [https://github.com/Olena-brunette](https://github.com/Olena-brunette/ReactPathMenu)
 30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"
 31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| | [Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)

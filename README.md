@@ -20,7 +20,7 @@
 13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
 14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x | [https://github.com/lily-zayn/](https://github.com/lily-zayn/react-motion-TransitionSpring-demo) | [https://github.com/lily-zayn] (https://github.com/lily-zayn/react-tiltshift)
 15 | [react-progress-form](https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion. | [https://github.com/YuLogun](https://github.com/YuLogun/react-progress-form)
-16 | [reacticons](https://github.com/andrewliebchen/reacticons) | react: 0.12.0
+16 | [reacticons](https://github.com/andrewliebchen/reacticons) | react: 0.12.0 | <a href="https://github.com/flavitsky">Alex Flavitsky</a>
 17 | [https://github.com/VikramN/Re-Tag](https://github.com/VikramN/Re-Tag) | react "^0.12.2"
 18 | [text-to-emoji](https://github.com/brendansudol/text-to-emoji) | ^0.14.5
 19 | [react-password-strength-meter](https://github.com/abhijeetNmishra/react-password-strength-meter) | react: 0.14.3 | | [kbaklaev](https://github.com/kbaklaev/react-password-strength-meter)

@@ -27,7 +27,7 @@
 20 | [lymbus](https://github.com/bbstilson/lymbus) | react:"^15.0.2"
 21 | [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) | react: "0.12.2"
 22 | [react-select-box](https://github.com/instructure-react/react-select-box) | react: ^0.13.0 | |[kyrylosydorenko](https://github.com/kyrylosydorenko/react-select-box)
-23 | [react-token-autocomplete](https://github.com/peterKaleta/react-token-autocomplete) | react: ^0.13.3 | [https://github.com/sl-2010] | https://github.com/sl-2010/react-token-autocomplete
+23 | [react-token-autocomplete](https://github.com/peterKaleta/react-token-autocomplete) | react: ^0.13.3 | [https://github.com/sl-2010] https://github.com/sl-2010/react-token-autocomplete
 24 | [react-select-popover](https://github.com/bharani91/react-select-popover) | react: "^0.14.2"
 25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x" | [https://github.com/onair-lena](https://github.com/onair-lena)
 26 | [react-datetime](https://github.com/arqex/react-datetime) |  "react": ">=0.13"

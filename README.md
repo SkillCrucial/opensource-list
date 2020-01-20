@@ -31,7 +31,7 @@
 24 | [react-select-popover](https://github.com/bharani91/react-select-popover) | react: "^0.14.2"
 25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x" | [https://github.com/onair-lena](https://github.com/onair-lena)
 26 | [react-datetime](https://github.com/arqex/react-datetime) |  "react": ">=0.13"
-27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0"| [elnurad]|(https://github.com/elnurad/react-async-button)
+27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0" | |[elnurad](https://github.com/elnurad/react-async-button)
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"| |[kyrylosydorenko](https://github.com/kyrylosydorenko/react-photo-feed)
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0" | | [https://github.com/Olena-brunette](https://github.com/Olena-brunette/ReactPathMenu)
 30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"

@@ -17,7 +17,7 @@
 10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить в простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  
 11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2 | Pivot grid javascript library. | <a href="https://github.com/dovhanrg/orb">dovhanrg</a>
 12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
-13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
+13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3 | [https://github.com/KseniiaFed](https://github.com/KseniiaFed/cake-chart)
 14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x | [https://github.com/lily-zayn/](https://github.com/lily-zayn/react-motion-TransitionSpring-demo) | [https://github.com/lily-zayn] (https://github.com/lily-zayn/react-tiltshift)
 15 | [react-progress-form](https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion. | [https://github.com/YuLogun](https://github.com/YuLogun/react-progress-form)
 16 | [reacticons](https://github.com/andrewliebchen/reacticons) | react: 0.12.0 | Reacticons are scalable file icons for ReactJS. They're hip, cute, customizeable, and (can be) animated. | <a href="https://github.com/flavitsky">Alex Flavitsky</a>

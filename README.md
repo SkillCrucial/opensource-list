@@ -34,7 +34,7 @@
 27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0"
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"| |[kyrylosydorenko](https://github.com/kyrylosydorenko/react-photo-feed)
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0" | | [https://github.com/Olena-brunette](https://github.com/Olena-brunette/ReactPathMenu)
-30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"
+30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1" | [Macbaren](https://github.com/Macbaren/react-async-button.git) 
 31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| | [Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)
 32 | [React-Lightbox](https://github.com/howtomakeaturn/React-Lightbox) | "react": "?"
 33 | [little-sheet-react-spreadsheet](https://github.com/asm-products/little-sheet-react-spreadsheet) | "react": "^0.12.2"

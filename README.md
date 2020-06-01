@@ -17,7 +17,7 @@
 10 | [readr](https://github.com/staceytay/readr) | react: 0.13.1,  Latest commit on 15 Apr 2015  | simple RSS feed aggregator based on Safari's shared links (можно развить в простой RSS агрегатор с авторизацией через соцсети с управлением\импортом RSS фидов)  
 11 | [orb](https://github.com/nnajm/orb) | react: ~0.12.2 | Pivot grid javascript library. | <a href="https://github.com/dovhanrg/orb">dovhanrg</a>
 12 | [react-audio-player](https://github.com/humanhighway/react-audio-player) | react: 0.13.2
-13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3
+13 | [cake-chart](https://github.com/alexkuz/cake-chart/) | react: ^0.13.3 | cake-chart | [KseniiaFed](https://github.com/KseniiaFed/cake-chart)
 14 | [react-tiltshift](https://github.com/gustavoguichard/react-tiltshift) | react: 0.13.x | [https://github.com/lily-zayn/](https://github.com/lily-zayn/react-motion-TransitionSpring-demo) | [https://github.com/lily-zayn] (https://github.com/lily-zayn/react-tiltshift)
 15 | [react-progress-form](https://github.com/expalmer/react-progress-form) |  react: 0.12.2 | Form with circular progress bar to illustrate completion. | [https://github.com/YuLogun](https://github.com/YuLogun/react-progress-form)
 16 | [reacticons](https://github.com/andrewliebchen/reacticons) | react: 0.12.0 | Reacticons are scalable file icons for ReactJS. They're hip, cute, customizeable, and (can be) animated. | <a href="https://github.com/flavitsky">Alex Flavitsky</a>
@@ -31,10 +31,10 @@
 24 | [react-select-popover](https://github.com/bharani91/react-select-popover) | react: "^0.14.2"
 25 | [react-calendar](https://github.com/freiksenet/react-calendar) | react: "15.x" | [https://github.com/onair-lena](https://github.com/onair-lena)
 26 | [react-datetime](https://github.com/arqex/react-datetime) |  "react": ">=0.13"
-27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0"
+27 | [react-async-button](https://github.com/selvagsz/react-async-button) | "react": "^15.1.0" | |[elnurad](https://github.com/elnurad/react-async-button)
 28 | [react-photo-feed](https://github.com/lkazberova/react-photo-feed) |  "react": "^15.0.0-rc.2"| |[kyrylosydorenko](https://github.com/kyrylosydorenko/react-photo-feed)
 29 | [ReactPathMenu](https://github.com/nashvail/ReactPathMenu) | "react": "^15.1.0" | | [https://github.com/Olena-brunette](https://github.com/Olena-brunette/ReactPathMenu)
-30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1"
+30 | [react-svg-buttons](http://plouc.github.io/react-svg-buttons/) | "react": "^15.4.1" | button-shmatton|[Macbaren](https://github.com/Macbaren/react-async-button.git) 
 31 | [react-pacman-progress](https://github.com/mathieudutour/react-pacman-progress) | "react": "?"| | [Yaroslavoz](https://github.com/Yaroslavoz/react-pacman-progress)
 32 | [React-Lightbox](https://github.com/howtomakeaturn/React-Lightbox) | "react": "?"
 33 | [little-sheet-react-spreadsheet](https://github.com/asm-products/little-sheet-react-spreadsheet) | "react": "^0.12.2"
